@@ -1,0 +1,2 @@
+ami = ""
+instance_type = ""
